@@ -67,6 +67,7 @@ print("🔸 FOR LOOPS WITH DIFFERENT DATA TYPES")
 print("-" * 50)
 print()
 
+
 print("DATA TYPE 1: Lists")
 print("-" * 30)
 
