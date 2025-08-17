@@ -9,9 +9,12 @@ This file covers:
 2. For loops with different data types
 3. Real-world examples and use cases
 4. Advanced for loop techniques
-5. Performance considerations
+5. Pe 838617rformance considerations
 6. Best practices and common patterns
 """
+
+
+
 
 print("=" * 80)
 print("COMPREHENSIVE GUIDE TO FOR LOOPS IN PYTHON")
